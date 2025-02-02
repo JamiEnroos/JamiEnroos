@@ -1,5 +1,6 @@
-## First year student at Tampere University
-
+## Hi
+I'm a first year student at Tampere University.
+Learning to code in different languages.
 
 <!--
 **JamiEnroos/JamiEnroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
